@@ -63,7 +63,7 @@ Business Impact from Visuals
 ⭐ Strengthens customer experience by monitoring satisfaction scores
 
 Dashboard Preview
-🖼 [Add dashboard screenshot here](https://github.com/PbiPooja/Uber-Sales-Analysis/blob/main/Monthly%20Uber%20sales%20dashboard.png) 
+🖼 https://github.com/PbiPooja/Uber-Sales-Analysis/blob/main/Monthly%20Uber%20sales%20dashboard.png 
 
 
 
